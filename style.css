@@ -79,7 +79,7 @@ section {
   height: 20px;
   width: 20px;
   border-radius: 50%;
-  background: #333;
+  background: rgb(59, 55, 55);
   animation: move 30s ease infinite;
   border-width: 3px !important;
 }
